@@ -1,5 +1,7 @@
 # travel-new
 
+vue练习项目，模拟去哪儿手机app。
+
 ## Project setup
 ```
 npm install
